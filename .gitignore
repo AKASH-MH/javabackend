@@ -1,0 +1,49 @@
+# Java / Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/resources/architecture_overview.png
+!**/src/main/resources/walkthrough.md
+*.class
+*.jar
+*.war
+*.ear
+*.tar.gz
+# Maven Wrapper
+.mvn/
+! .mvn/wrapper/
+
+# Node / React (Frontend)
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/*.local
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+
+# Logs
+*.log
+logs/
+SerializedData/
+
+# IDEs
+.idea/
+*.iml
+*.iws
+.project
+.settings/
+.classpath
+.factorypath
+bin/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/launch.json
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Help files
+HELP.md

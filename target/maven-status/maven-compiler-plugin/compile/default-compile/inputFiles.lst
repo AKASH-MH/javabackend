@@ -5,6 +5,7 @@ C:\src\flutter_projects\javabackend\src\main\java\com\jobportal\repository\JobOp
 C:\src\flutter_projects\javabackend\src\main\java\com\jobportal\dto\ApplicationDTO.java
 C:\src\flutter_projects\javabackend\src\main\java\com\jobportal\dto\CandidateDTO.java
 C:\src\flutter_projects\javabackend\src\main\java\com\jobportal\entity\Application.java
+C:\src\flutter_projects\javabackend\src\main\java\com\jobportal\config\WebConfig.java
 C:\src\flutter_projects\javabackend\src\main\java\com\jobportal\controller\CandidateController.java
 C:\src\flutter_projects\javabackend\src\main\java\com\jobportal\exception\ErrorResponse.java
 C:\src\flutter_projects\javabackend\src\main\java\com\jobportal\dto\StatusUpdateDTO.java
